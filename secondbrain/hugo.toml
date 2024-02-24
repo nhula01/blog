@@ -1,0 +1,4 @@
+baseURL = 'https://secondbrain.github.io/'
+languageCode = 'en-us'
+title = 'Second Brain'
+theme="hugo-PaperMod"

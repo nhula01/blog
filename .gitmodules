@@ -1,0 +1,4 @@
+[submodule "/home/phihungnguyen/blog/secondbrain/public/brain"]
+	path = /home/phihungnguyen/blog/secondbrain/public/brain
+	url = https://github.com/nhula01/secondbrain.github.io.git
+	branch = main
